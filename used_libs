@@ -1,3 +1,4 @@
+ld-linux-x86-64.so.2
 libKF5Activities.so.5
 libKF5ActivitiesStats.so.1
 libKF5AuthCore.so.5
@@ -64,7 +65,6 @@ libm.so.6
 libnotificationmanager.so.1
 libphonon4qt5.so.4
 libprocesscore.so.9
-libstdc++.so.6
 libtaskmanager.so.6
 libxkbcommon.so.0
 libxkbfile.so.1
