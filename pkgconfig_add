@@ -1,5 +1,8 @@
 # This file contains additional pkgconfig build requirements that did
 # not get picked up automatically. One name per line, no whitespace.
+glib-2.0
+gobject-2.0
+ibus-1.0
 Qt5Concurrent
 Qt5DBus
 Qt5Quick
@@ -7,5 +10,11 @@ Qt5QuickWidgets
 Qt5Svg
 Qt5Widgets
 Qt5X11Extras
+x11-xcb
+xcb
+xkbcommon
 xkeyboard-config
 xorg-evdev
+xorg-libinput
+xorg-server
+xorg-synaptics
